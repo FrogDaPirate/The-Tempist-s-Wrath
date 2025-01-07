@@ -1,0 +1,1427 @@
+{
+  "folder": "9J4dRPsJ2xp9F8Ru",
+  "name": "Magic Items",
+  "img": "Magic%20Item%20Rolltable.png",
+  "description": "<p><span style=\"font-family:Metal Mania\">Here Be A Rolltable Fer Magical Loot Items!</span></p>",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "HKwg7v5HuQsnq87k",
+      "text": "Black Powder of the Abyss\tOne shot of black powder that deals 2d12 damage in a 20-foot radius, but summons an eldritch mist for 1d4 rounds.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "4BwdVijDd37nCbSv",
+      "text": "Captain’s Compass\tAlways points to the nearest treasure worth at least 100 silver.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "MW0SyG6BqpQ23DqE",
+      "text": "Bloodthirsty Cutlass\td8 damage; heals wielder for half the damage dealt on a crit.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "dFOWyTB2JkWcx2ns",
+      "text": "Whispering Locket\tCan store one whisper that can be replayed at will; unlocks hidden ghost secrets (Presence DR14 to hear).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "x1lh6IM886GIqyeF",
+      "text": "Bone Harpoon of Souls\td6 damage; on a crit, traps the enemy’s soul (1 use; requires Spirit DR16 to resist).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "jyN8iwCNQKhNS7TQ",
+      "text": "Ring of Devil’s Luck\tGrants +1 Devil’s Luck point, but causes you to lose 1 HP every dawn.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "rPvSrgopzvYr528s",
+      "text": "Bottled Tempest\tOnce opened, releases a hurricane in a 50-foot radius (lasts d4 rounds).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "1xIOBPOdQYlJk4lX",
+      "text": "Ghost Lantern\tReveals all hidden spirits within 100 feet for 1d6 minutes.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "O2CjYfGXi0nfNOlo",
+      "text": "Sirenscale Amulet\tWearer gains +2 to Spirit DR tests against mental effects but must test Spirit DR12 to resist the call of the sea.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "5VH92UF1Zy5vTJgO",
+      "text": "Kraken's Eye\tA glowing orb that allows you to breathe underwater for 1 hour per day.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "lfNwygqEKNeBrGcq",
+      "text": "Dagger of Shadows\td6 damage; when thrown, teleports back into your hand after one round.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "amvo1igYYjFQ0SJ3",
+      "text": "Ritual Mask of the Drowned\tGain +2 to Ritual Presence tests but take d6 damage when exposed to holy relics.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_id": "9p1CmkiEhNUAz5D8",
+      "text": "Cursed Spyglass\tCan see up to 5 miles away, but for each use, test Spirit DR12 or see a vision of your death.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_id": "ipWhCuz2nF5vNkKL",
+      "text": "Cannibal Totem\tGrants +2 melee damage for d6 rounds after consuming raw flesh.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_id": "UQG1fr5zBHP7vxuk",
+      "text": "Siren’s Flute\tWhen played (Presence DR14), nearby enemies must test Spirit DR12 or become entranced for 1d4 rounds.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_id": "J4hmjfkxvLaqgWAB",
+      "text": "Rope of Endless Coil\t100 feet of unbreakable rope that can bind any creature if they fail an Agility DR12 test.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_id": "yfZmR3UOeuY2mzUS",
+      "text": "Boots of the Maelstrom\tAllows the wearer to walk on water and create 10-foot waves once per day.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_id": "qgzGay1MvBuLj4I0",
+      "text": "Obsidian Hook\tReplaces a hand; deals d8 damage and crits cause bleeding (d2 damage per round).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_id": "c1ZeGEiNrxV6kJtm",
+      "text": "Breath of Leviathan\tA potion that grants the ability to exhale a 30-foot cone of steam (2d10 damage) once.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "7llX89DrGmItGiBp",
+      "text": "Coin of Lost Souls\tA spectral gold coin that can be exchanged for a favor from a ghost captain.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "_id": "HWlMZNPeoKjJc939",
+      "text": "Anchor Amulet\tGrants +3 DR against knockback effects and keeps you rooted to the spot.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "_id": "mnxRa6o1SDdmGprV",
+      "text": "Shackles of the Damned\tOnce placed on a target, the shackles prevent movement (Strength DR16 to break).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "_id": "iYfFDnJYQmswXhVj",
+      "text": "Ethereal Map\tReveals the location of an uncharted island, but slowly drives the reader mad (Spirit DR14 after each use).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "_id": "3oZDUUxCKzVZ9CKL",
+      "text": "Relic of Calypso\tWhen submerged, heals d8 HP but curses the user if stolen (random mystical mishap).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "_id": "eeCJldcHBUb3g9Bw",
+      "text": "Compass of Storms\tPoints toward the nearest source of magical weather. Can only be used during a storm.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "_id": "XHkW7sRFNyYDJup7",
+      "text": "Gunpowder Gauntlet\tFires a magical shot for d12 damage without reloading, but misfires on a nat 1.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "_id": "cDipsBPUAsjt2oVW",
+      "text": "Grog of Eternal Flame\tThis magical grog can be ignited to deal 2d8 fire damage or drunk to heal d6 HP (but causes d4 fire damage internally).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "_id": "LrEjNtfWum4n5sAl",
+      "text": "Dead Man's Dice\tWhen rolled, grants the user +1 Devil’s Luck if a 6 is rolled, but -1 HP if a 1 is rolled.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "_id": "BpVl4Ig0NNgR7D23",
+      "text": "Net of the Serpent’s Embrace\tEntangles enemies (Agility DR14 to escape) and deals d6 poison damage per round.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "_id": "sUFXjKq6AhfatTWN",
+      "text": "Cutlass of the Void\td8 damage; ignores armor, but user must test Spirit DR12 or gain a -1 Spirit penalty for 1 hour.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "_id": "UwID9aJ32zY21kBw",
+      "text": "Cannonball of Annihilation\tFires once and deals 4d12 damage to a ship's hull; disintegrates after use.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "_id": "f1LVbN8OFQJPqC5A",
+      "text": "Black Pearl Earring\tWearer can command sea creatures for 1d6 rounds (Spirit DR16).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "_id": "0jxk1QsxrcQq5yPw",
+      "text": "Hexing Figurehead\tAdds +2 to ship Intimidation checks and makes crew morale tests -2 DR harder for enemies.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "_id": "PbXy2yjeOBztd2fD",
+      "text": "Eldritch Oar\tAllows a rowboat to travel at supernatural speeds (50 miles/day)",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "_id": "bBZD3RTujmccy6KF",
+      "text": "Sextant of the Forgotten Stars\tAllows the user to teleport the ship 1 mile once per day.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "_id": "IFq68qpEvuLoHMDF",
+      "text": "Mourning Cloak\tGrants +2 to stealth tests, but each time it’s worn, the wearer loses d4 HP.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "_id": "dCsycBvgIQRTeWs6",
+      "text": "Reefwalker’s Ring\tWearer can swim at double speed and breathe water but must test Spirit DR10 to resist the song of drowned souls.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "_id": "DgSJG9sXuwqtWeAl",
+      "text": "Sea Salt Gauntlets\td8 unarmed strike; punch turns enemies to stone on a crit (Presence DR14 to resist).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "_id": "fE7wYPkyAhmvKBKt",
+      "text": "Amulet of Forgotten Whispers\tHear the last words of the dead when held in your hand.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "_id": "qPOKrgdA7bJkBGHg",
+      "text": "Spectral Shackles\tAutomatically entraps any spirit or ghost for 1d4 rounds (Spirit DR16 to break free).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "_id": "iyxZUrfTz5bxSM6l",
+      "text": "Barnacle Shield\tReduces damage by -d4, but slows movement (-1 Agility).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "_id": "KfDmoiJLAge7mhQQ",
+      "text": "Megalodon’s Fang\td10 spear with +4 DR bonus when underwater.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "_id": "pTOQJrOekwEtsMui",
+      "text": "Leviathan Cloak\tGrants +2 to Agility underwater and d6 damage reduction vs cold attacks.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "_id": "pLGX3rpXWOhaV0CZ",
+      "text": "Cursed Flag of the Reaper\tHoisting this flag forces all ships within sight to test Morale DR14 or flee.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "_id": "E5n5gS9hO6UvuhwK",
+      "text": "Gambler’s Dice\tRoll 2d6: On doubles, gain +1 Devil’s Luck; on a 7, nothing happens; otherwise, lose d4 HP.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "_id": "PBku1FMODzCLQcBu",
+      "text": "Specter’s Bandolier\tHolds up to 3 ghostly bullets (2d8 damage, no reload needed).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "_id": "4dFluCm7ML8Y3w93",
+      "text": "Tidebreaker Medallion\tNullifies one magical storm when invoked.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "_id": "Ik530exP3w6YSz7F",
+      "text": "Feather of the Albatross\tGrants flight for 1d6 minutes but costs the wearer d4 HP upon landing.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "_id": "Dvv28V7hDpSCmgPw",
+      "text": "Map of the Whispering Isles\tReveals paths through sea maelstroms but must be fed blood daily.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "_id": "RVKBQoUnaIiJxndn",
+      "text": "Create Your Own\tDescribe an ancient artifact tied to a tale of betrayal, treasure, or vengeance! The GM creates stats fitting the story.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "_id": "rq7EDKUiObIGYd74",
+      "text": "Blunderbuss of the Abyss\tFires in a 15-foot cone, dealing 2d8 damage to all in range. On a fumble, summons a shadowy tentacle (Presence DR14 to avoid).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "_id": "sCAa0Bi9cEGSAdxq",
+      "text": "Navigator’s Hourglass\tGrants +1 Speed for d6 rounds when flipped. After use, test Spirit DR12 or lose track of time permanently.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "_id": "EGhpAXea4Mrvsvi0",
+      "text": "Crown of Coral\tGrants the ability to command seaweed and coral (Spirit DR14) to restrain foes for 1d4 rounds.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "_id": "EjOlXMFaiyUGMhX4",
+      "text": "Harpoon of Eternal Hunger\td8 damage; returns to the thrower’s hand on a miss, but whispers dark secrets each time.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "_id": "VNDVWPtphG2gzQJ5",
+      "text": "Anchor Chain of Leviathan\tOn a successful hit, immobilizes a ship for d6 rounds (Strength DR16 to break free).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "_id": "0qRI22fY6izAqXcJ",
+      "text": "Barnacle Armor\tGrants -d6 damage reduction but slows the wearer (Speed -1, Agility +1 DR).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "_id": "SFqiPGweFCRVqd58",
+      "text": "Eldritch Powder Horn\tOnce per day, fills itself with enough black powder for 10 shots. On a fumble, it explodes (d10 damage).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "_id": "AXRrYtnkplPXB8dN",
+      "text": "Crimson Cutlass\td10 damage; heals d6 HP when it lands a killing blow.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "_id": "gmzV2BJft0nZlqNT",
+      "text": "Siren’s Tear Necklace\tOnce per day, allows the wearer to charm an enemy (Spirit DR14) for 1d6 rounds.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "_id": "9EdK0wN429d1r51u",
+      "text": "Mourner’s Cloak\tGrants +2 Stealth in dim light or darkness, but the wearer becomes unnaturally cold (Toughness DR12 every dawn or take d4 damage).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "_id": "xiPvBKCAdiDTiL5x",
+      "text": "Merrow Flute\tSummons a school of fish or sea creature allies (Presence DR12).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "_id": "o4C9aeml8GmBP8tv",
+      "text": "Cannoneer’s Gauntlet\tGrants +2 to Broadside Attack rolls and halves reload time for ship cannons.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "_id": "esJ5bjWTC0z89jme",
+      "text": "Net of Bone\td6 damage; restrains sea creatures for d6 rounds.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "_id": "tlTeoNMeVbSGoi2D",
+      "text": "Captain’s Hat of Authority\tGrants +2 to all morale tests but makes the wearer the prime target for mutiny (Presence DR16 to resist).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "_id": "WZnT9JmbCy1uVboh",
+      "text": "Leviathan’s Tooth Necklace\tGrants water-breathing for 1 hour but curses the wearer with visions of drowning.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "_id": "pB2F2wEJU8cizTXG",
+      "text": "Ghostly Spyglass\tCan see through illusions and into the spirit world for 1 minute per day.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "_id": "ubrY2X9n9tPssoBv",
+      "text": "Reaver’s Sabre\td6 damage; deals double damage to enemies affected by fear.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "_id": "vjlnNLqenfwgrDpt",
+      "text": "Wavesplitter Trident\td8 damage; creates a 30-foot wave that knocks enemies prone (Agility DR14 to resist).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "_id": "OAXYp0gY2Pztbu0o",
+      "text": "Hellfire Pistol\td10 damage; on a crit, ignites enemies for d6 fire damage per round.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "_id": "teTmTNmU2byAKACR",
+      "text": "Kraken’s Grasp Gauntlet\tGrants +4 to grapple attempts and can crush restrained targets for d8 damage.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "_id": "RnrKqNJVBq4RzgIK",
+      "text": "Chalice of Forgotten Gods\tWhen filled with seawater, heals d6 HP but induces madness (Spirit DR14).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "_id": "XnwPk6dJAe4ns7Ow",
+      "text": "Amulet of the Coral Crown\tGrants immunity to poison but forces the wearer to grow coral-like skin (-1 Agility).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "_id": "9MXvV88b9tGe09Q6",
+      "text": "Bone Dice of Fate\tWhen rolled, grants +2 to any test if doubles are rolled but curses the user if snake eyes appear.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "_id": "06lA2UmimwKgjoJZ",
+      "text": "Cursed Sextant\tAllows the user to navigate perfectly, but they begin losing memories of their loved ones.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "_id": "Sws1zKBh3Znzca3l",
+      "text": "Phantom Cannonball\tGhostly shot that phases through obstacles and deals 2d12 damage to a target ship.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "_id": "GoR5hIIZBCyoIy7X",
+      "text": "Serpent’s Scales Armor\tGrants -d4 damage reduction and +2 DR to resist poison, but wearer must test Spirit DR12 after each battle or become serpentine.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "_id": "bUJ3sX4H6mCNbXnr",
+      "text": "Infernal Compass\tPoints toward an enemy’s greatest weakness. Once per day, shows visions of the afterlife.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "_id": "3x9hkuFADfi4hFJt",
+      "text": "Harbinger’s Mask\t+2 to Intimidation tests but causes nightmares (Presence DR14).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "_id": "FFpXCi3cJUZ3HtHi",
+      "text": "Cursed Rum Flask\tHeals d8 HP per sip but becomes addictive (Spirit DR14 to resist).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "_id": "jua8VZJ2EFQocIjS",
+      "text": "Inferno Bomb\tCreates a 10-foot radius explosion (3d6 fire damage) on impact.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "_id": "6JKSFAFM5BvgtSsa",
+      "text": "Bloodletting Saber\td8 damage; crits cause bleeding for d4 rounds (d2 damage per round).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "_id": "2ceiiPGfosXK71Vm",
+      "text": "Brineblade\td8 damage; deals an additional d4 damage when fighting underwater.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "_id": "ZLgvun8A6jEAuxZw",
+      "text": "Talisman of the Drowned\tGrants immunity to drowning but causes weakness in the sun (Agility DR12 in daylight or -2 Speed).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "_id": "OBpwcYmYCUOUTgfX",
+      "text": "Hexbound Cutlass\td6 damage; on a crit, places a hex that lowers the enemy’s DR by 2 for 1d4 rounds.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "_id": "OHdIwsAUj2i38J4x",
+      "text": "Stormcaller’s Amulet\tSummons a violent storm for d6 hours once per week.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "_id": "zH8AoikyoHchbxyG",
+      "text": "Buccaneer’s Cloak\t+2 to Agility tests related to dodging but must test Spirit DR12 to resist stealing treasure in sight.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "_id": "LDSGILIjox4f092l",
+      "text": "Ebon Flintlock\td12 damage; ignores armor, but every shot consumes 1 HP from the wielder.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "_id": "WoaOivBHAO8annIC",
+      "text": "Spectral Bandolier\tHolds up to 6 ghostly bullets that pass through walls and deal d10 damage.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "_id": "Q82sPIyhaTauLhZf",
+      "text": "Cutlass of Discord\td6 damage; on a hit, target must test Presence DR14 or begin attacking their allies for 1d4 rounds.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "_id": "a3DhnQrFXMYShRUE",
+      "text": "Bone Charm of Voodoo\tGrants the ability to cast a random ritual once per day but comes with a mystical mishap on a fumble.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "_id": "CaWS3FPIgZiIviP0",
+      "text": "Plankwalker’s Boots\tGrants +3 to Agility when balancing, jumping, or climbing.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "_id": "NDtpjr4I4UJ9x1dC",
+      "text": "Grappling Anchor\tFires a tethered hook (d4 damage) that can pull objects or enemies toward you (Strength DR12).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "_id": "kmLzsz5IPGPPpdS1",
+      "text": "Powder Keg Satchel\tContains 3 mini-kegs of black powder (2d10 explosion each).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "_id": "09nH7SkC6BB26QpT",
+      "text": "Eye of the Maelstrom\tA glass orb that allows the user to teleport 50 feet once per day.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "_id": "hMQODAK5KMNlSS3e",
+      "text": "Sharktooth Ring\tGrants +1 Strength, but if removed, causes 2d6 bleeding damage.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "_id": "TdfQshGMN8Kw2aFl",
+      "text": "Nautilus Amulet\tGrants echolocation (Presence DR10) within 60 feet underwater.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "_id": "BhVDip7X50AAd01G",
+      "text": "Anchor of Oblivion\tOnce thrown, it creates a 30-foot sinkhole underwater, pulling everything in.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "_id": "XerngoY3wZLBci1I",
+      "text": "Cannon of the Deep\tA ghostly ship cannon that deals 3d10 damage and never needs reloading, but can only be used by a cursed crew.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "_id": "2XGG9N0LyI3P6ysh",
+      "text": "Mermaid’s Song Conch\tOnce per day, it can be blown to summon d4 mermaids (roll Reaction DR to see their intent).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "_id": "TvgEQeVJ0AelOlje",
+      "text": "Leviathan’s Heart Pendant\tGrants the wearer d12 temporary HP once per day, but if the pendant is broken, the user is dragged into the sea by invisible forces.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "welcome-to-da-borg",
+      "system": "pirateborg",
+      "coreVersion": "12.331",
+      "systemVersion": "v1.0.5"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "pirateborg",
+    "systemVersion": "v1.0.5",
+    "createdTime": 1736144751857,
+    "modifiedTime": 1736147618426,
+    "lastModifiedBy": "XiZOhGDOtvh215YM"
+  },
+  "formula": "1d100"
+}

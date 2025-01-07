@@ -1,0 +1,239 @@
+{
+  "folder": "R2lL3X5bYAGC4kYV",
+  "name": "The Tempist's Wrath Adventure",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Part 1:",
+      "type": "text",
+      "_id": "eFBvFPlAnHbC23sw",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<img src=\"tempest%20scene%201.png\" width=\"500\" height=\"300\" /><h4><strong>Shipwrecked!</strong></h4><ul><li><strong>Location:</strong> Beach of Broken Bones</li><li><p><strong>Events:</strong></p><ul><li>PCs awaken amidst wreckage. The sky is filled with lightning, and they see the island jungle beyond.</li><li><strong>Skill Test:</strong> Presence DR10 to scavenge supplies from debris (random weapons, food, and 1 Devil’s Luck token).</li><li>A <strong>Necro-Swine</strong> (Core Rule, HP 6) emerges from the jungle, drawn by the smell of blood.</li><li>After dispatching the beast, they find a <strong>weathered map fragment</strong> leading toward the jungle interior.</li></ul></li><li><strong>Scene 1: Shipwrecked!</strong></li></ul><p><strong>Location:</strong> The <strong>Beach of Broken Bones</strong>, littered with shattered planks, barrels, and corpses from the shipwreck.</p><ul><li><strong>Narration:</strong> \"Salt burns your wounds. The storm’s fury still looms above, and broken debris surrounds you. The sea spared your lives—but at what cost?\"</li></ul><p>The players must act quickly:</p><ul><li><p><strong>Skill Test: Presence DR10 (Scavenging)</strong></p><ul><li>Success: The player finds a random weapon (GM’s choice), enough food for one day, and <strong>1 Devil’s Luck token</strong>.</li><li>Failure: They find useless scraps and must face the jungle with only what they carried.</li></ul></li></ul><hr /><h3><strong>Scene 2: The Necro-Swine’s Hunt</strong></h3><p>From the dense jungle, a guttural, wet snort pierces the humid air. Emerging from the undergrowth is a grotesque beast—a <strong>Necro-Swine</strong>, its tusks glinting unnaturally, and a putrid, cyan steam wafting from its open mouth.</p><p><strong>Necro-Swine (Core Rulebook)</strong></p><ul><li>HP: 6</li><li><strong>Bite:</strong> d8 damage</li><li><strong>Tusks:</strong> d6 damage</li><li><strong>Necro-Steam Aura:</strong> Test Spirit DR12 if you breathe in the steam. On failure, you gain +4 to Strength and Agility for d2 hours but lose d8 HP afterward. Anything killed by the steam rises as undead.</li></ul><p><strong>Necro-Swine Battle Dialogue:</strong></p><ul><li><strong>When it charges:</strong> \"The beast’s hooves thunder across the sand, spraying broken shells and blood-soaked foam.\"</li><li><strong>When wounded:</strong> \"The swine lets out an ear-splitting screech as the steam intensifies, masking its wounds in a noxious cloud.\"</li></ul><hr /><h3><strong>Scene 3: Aftermath and Discovery</strong></h3><p>After dispatching the <strong>Necro-Swine</strong>, the jungle falls silent, save for the distant hum of the storm. The players notice something protruding from the beast's gullet: a <strong>weathered map fragment</strong>.</p><p><strong>The Map Fragment:</strong><br />It shows a crude outline of the island’s jungle interior, marking a path toward a place marked only as <strong>“The Storm Altar.”</strong> Burned into the map’s edge are the words:<br /><em>\"The storm tests all who dare. Only the worthy will pass.\"</em></p><hr /><h3><strong>Scene 4: Into the Jungle</strong></h3><p>As the players gather their courage and meager supplies, they prepare to trek into the unknown jungle. The lightning above flashes ominously, casting strange shadows.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "XiZOhGDOtvh215YM": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.0.5",
+        "createdTime": 1736182623850,
+        "modifiedTime": 1736183359862,
+        "lastModifiedBy": "XiZOhGDOtvh215YM"
+      }
+    },
+    {
+      "sort": 200000,
+      "name": "Part 2:",
+      "type": "text",
+      "_id": "JmX5CykjxioYujRU",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<img src=\"tempest%20scene%202.png\" width=\"300\" height=\"300\" /><h4><strong>The Jungle Labyrinth</strong></h4><ul><li><strong>Location:</strong> Overgrown paths with strange carvings and ruins.</li><li><p><strong>Encounters:</strong></p><ul><li><p><strong>Random Jungle Event Table (Roll 1d6):</strong></p><ol><li><em>Quick Sand:</em> One PC must test Agility DR12 or sink (requires a Strength test to escape).</li><li><em>Swarm of Carrion Gulls</em> (HP 2 each): PCs must fend off the bloodthirsty birds.</li><li><em>Monkey Thief:</em> A mischievous monkey spirit steals a key item and leads the group toward the altar.</li><li><em>Undead Palm Viper</em> ambushes (HP 4, bite causes paralysis for d4 rounds).</li><li>A whispering <strong>ghost crew member</strong> (use Ghost stats) offers cryptic warnings and a ritual scroll.</li><li><strong>Corpse-Marked Trees:</strong> Evidence of the Warlock's old sacrifices (test Spirit DR14 or gain a Madness effect).</li></ol></li></ul></li><li><strong>The Jungle Labyrinth</strong></li></ul><hr /><h4><strong>Introduction: The Jungle’s Grasp</strong></h4><p>The path winds into the shadowed heart of the island. The air grows thick with moisture, and a strange hum seems to resonate from the earth itself. Carved stones, worn with age, lie scattered like bones. The jungle is alive—and watching.</p><p><strong>Narration:</strong><br />“The jungle swallows the light. Vines hang like nooses. The air hums with unseen energy, and the undergrowth twists as though trying to ensnare you. Insects whine like violins, and faint, ancient carvings mark the stones beneath your feet. You feel as if something—or someone—is guiding you deeper.”</p><hr /><h3><strong>Jungle Encounters</strong></h3><p><strong>Location:</strong> The Overgrown Labyrinth of Carvings and Ruins</p><p><strong>Random Jungle Event Table (Roll 1d6)</strong></p><p><strong>1. Quick Sand Pit</strong></p><p><strong>GM:</strong><br />“You step forward—and the ground suddenly gives way! Sand and mud rush in, and the pit begins to swallow your leg!”</p><ul><li><p><strong>One PC must test Agility DR12:</strong></p><ul><li><strong>Success:</strong> “You leap back just in time, watching the pit collapse where you stood.”</li><li><strong>Failure:</strong> “You sink knee-deep in thick, sucking mud. The jungle seems eager to claim you.”</li><li>If trapped: Strength DR12 to pull free or rely on another PC’s help.</li></ul></li></ul><p><strong>NPC Remark:</strong> <em>“The island itself is hungry.”</em></p><hr /><p><strong>2. Swarm of Carrion Gulls (HP 2 each)</strong></p><p><strong>GM:</strong><br />“A chorus of shrill cries pierces the sky as a flock of bloodstained gulls descends from above, their feathers slick with gore. They claw and bite, drawn to the scent of death.”</p><ul><li><p><strong>Combat:</strong> PCs must fend off d6 carrion gulls:</p><ul><li><strong>Beak Attack:</strong> d4 damage.</li><li><strong>Morale:</strong> 6 (they retreat after half their number are slain).</li></ul></li></ul><p><strong>Carrion Gull Screeches:</strong></p><ul><li>“SCREEECH—meat! Fresh meat!”</li><li><em>As they divebomb the PCs:</em> “Feast on the fallen!”</li></ul><p><strong>Aftermath:</strong><br />The jungle grows eerily silent once the gulls scatter. The vines drip with blood.</p><hr /><p><strong>3. Monkey Thief</strong></p><p><strong>GM:</strong><br />“There’s a sudden rustle—a flash of fur and a wicked grin! A small monkey spirit with glowing eyes snatches an item from your pack. It leaps from branch to branch, screeching mockingly.”</p><p><strong>PC Action:</strong></p><ul><li><p>Test Agility DR10 to chase the spirit.</p><ul><li>On a success: “You leap after the spirit, snagging its tail before it can vanish!”</li><li>On failure: “The monkey’s laughter echoes as it scampers deeper into the jungle.”</li></ul></li></ul><p><strong>Monkey Spirit Dialogue:</strong></p><ul><li>“Slow feet! Slow minds!”</li><li><em>If caught:</em> “I was only playing! I’ll take you somewhere important—come!”</li></ul><p><strong>Outcome:</strong> The monkey spirit will lead the PCs toward the altar.</p><hr /><p><strong>4. Undead Palm Viper Ambush (HP 4)</strong></p><p><strong>GM:</strong><br />“Twisting around a gnarled branch, a snake of pale, withered flesh hisses. Its eyes glow faintly green as it lunges!”</p><ul><li><strong>Bite Attack:</strong> d6 damage + test Toughness DR12. On failure, the target is paralyzed for d4 rounds.</li></ul><p><strong>Combat Note:</strong><br />The snake’s body bursts into ash upon death. If inspected, arcane glyphs are carved into its fangs.</p><hr /><p><strong>5. Whispering Ghost Crew Member (Ghost HP 6)</strong></p><p><strong>GM:</strong><br />“The air chills as a figure takes form—a sailor clad in ghostly tatters. His eyes are empty sockets, and his lips move in silence before you hear a whisper in your minds.”</p><p><strong>Ghost Dialogue:</strong></p><ul><li>“You shouldn’t have come...but I’ll guide you.”</li><li><em>If asked about the map:</em> “The altar lies ahead...but you must pass its test.”</li><li><em>Offers a ritual scroll:</em> “Take this—it may be your only salvation.”</li></ul><p>The scroll contains a <strong>Storm Ward Ritual</strong>: Once cast, it grants +1 Armor for d6 rounds against lightning-based attacks.</p><hr /><p><strong>6. Corpse-Marked Trees (Spirit Test DR14)</strong></p><p><strong>GM:</strong><br />“As you push forward, the jungle clears, revealing a grove of massive trees. They are covered in macabre carvings—grotesque faces twisted in agony. Beneath the bark, bones protrude from the roots.”</p><ul><li><p>PCs must test <strong>Spirit DR14</strong>:</p><ul><li>On a failure: The carvings seem to writhe. Visions of blood-soaked rituals fill your mind. Gain a <strong>Madness Effect</strong>.</li><li>On a success: “You shake off the visions, but the weight of the Warlock’s past sacrifice lingers.”</li></ul></li></ul><p><strong>Madness Effects (d4):</strong></p><ol><li><strong>Fearful Shakes:</strong> -2 to all Presence tests until rested.</li><li><strong>Bloodlust:</strong> Must attack the nearest enemy when combat begins.</li><li><strong>Whispering Guilt:</strong> Take d2 damage when failing Spirit tests.</li><li><strong>Eye of the Storm:</strong> You become eerily calm, gaining +1 Presence but -1 Agility.</li></ol><hr /><h3><strong>Conclusion: Deeper into the Jungle</strong></h3><p>At last, the jungle canopy parts. A staircase of ancient stone rises toward the storm-shrouded altar ahead. The wind howls as if warning you to turn back.</p><p><strong>Narration:</strong><br />“The jungle fought you every step of the way, but now you stand at the threshold. The storm gathers overhead, lightning crackling like the breath of some hungry god.”</p><p>Prepare for Part 3: <strong>The Storm Altar and the Warlock’s Return.</strong></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "XiZOhGDOtvh215YM": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.0.5",
+        "createdTime": 1736183293987,
+        "modifiedTime": 1736199026957,
+        "lastModifiedBy": "XiZOhGDOtvh215YM"
+      }
+    },
+    {
+      "sort": 300000,
+      "name": "Part 3:",
+      "type": "text",
+      "_id": "13kZtpkVwEySAyPr",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h4><strong>The Altar of Storms</strong></h4><ul><li><strong>Location:</strong> Stone ruin atop a cliff, with an altar surrounded by wreckage and glowing glyphs.</li><li><p><strong>Final Battle:</strong></p><ul><li>The <strong>Pirate Warlock Ghost Captain</strong> (HP 25, deals spectral d8 damage) manifests, protected by three <strong>Ghost Crew</strong> (HP 7 each).</li><li>The altar hums with power. Players can use a Presence DR12 to disrupt the ritual glyphs to weaken the Warlock (lower his DR by 2 for the encounter).</li><li>The storm intensifies each round (random players test Agility DR10 to avoid lightning strikes dealing d6 damage).</li></ul></li><li><strong>The Altar of Storms</strong></li></ul><hr /><p><strong>Narration:</strong><br />“The jungle clears as you reach the summit. The stone altar looms ahead, weathered and jagged like a beast’s maw. The wind howls, and the sky roars with fury. Glyphs etched into the stone glow a sickly green, and shattered shipwrecks litter the cliffside. Thunder booms like war drums.”</p><hr /><h3><strong>The Altar of Storms – Final Showdown</strong></h3><p><strong>Location:</strong> A weathered cliff-top ruin surrounded by jagged rocks and debris.</p><ul><li>The <strong>Altar</strong>: A raised platform with arcane carvings that pulse with energy. A massive gemstone set into the center hums with stormy power.</li><li>The <strong>Storm</strong>: Lightning arcs across the sky, illuminating the grim scene.</li></ul><hr /><h3><strong>Warlock’s Arrival</strong></h3><p><strong>GM:</strong><br />“A chill overtakes the cliffside as a phantom gale swirls the mist around you. The Warlock Captain appears—his tattered coat flaring in the wind. His eyes burn like twin storms, and his sword gleams spectral blue. Three spectral crew members rise from the debris behind him.”</p><p><strong>Pirate Warlock Ghost Captain (HP 25)</strong>:</p><ul><li><strong>Spectral Strike:</strong> d8 damage (ignores normal armor).</li><li><p><strong>Special:</strong></p><ul><li>Immune to non-magical damage.</li><li>Can teleport 1d6 hexes as a reaction once per round, disappearing into a flash of lightning.</li></ul></li></ul><p><strong>Warlock Dialogue:</strong></p><ul><li>\"You think to steal what is mine? Fools! The storm will swallow you whole!\"</li><li><em>As the storm intensifies:</em> \"Witness my power—unleashed!\"</li></ul><p><strong>Ghost Crew (3, HP 7 each)</strong>:</p><ul><li>Armed with spectral cutlasses (d6 damage).</li><li>Will swarm to protect the Warlock Captain.</li></ul><hr /><h3><strong>The Battle Mechanics</strong></h3><p><strong>Altar Disruption</strong>:</p><ul><li><p>Players can attempt to disrupt the glowing glyphs with a <strong>Presence DR12</strong> test.</p><ul><li>On a success: “The glyph flickers and dims. The Warlock’s form wavers for a moment.”</li><li>For each successful disruption, the Warlock’s defense is lowered by 2 for the rest of the encounter.</li></ul></li></ul><p><strong>Storm Intensifies (Each Round):</strong></p><ul><li><p>The storm grows more violent:</p><ul><li>At the end of each round, <strong>random players must test Agility DR10</strong> to dodge a bolt of lightning. On failure, they take <strong>d6 lightning damage</strong>.</li></ul></li></ul><hr /><h3><strong>Concluding the Battle</strong></h3><p><strong>Victory Condition:</strong> Defeat the Warlock Captain and disrupt the altar’s magic.</p><p><strong>Warlock’s Defeat:</strong></p><ul><li><p><strong>GM:</strong><br />\"The Warlock Captain lets out a final, guttural roar as his spectral form unravels like mist in the wind. The gemstone at the center of the altar cracks and sputters, the storm above parting into beams of sunlight. The jungle below sighs as though freed from a long nightmare.\"</p></li></ul><p><strong>Loot:</strong></p><ul><li><strong>The Storm Gemstone</strong>: A pulsing, weathered jewel with stormy energy within.</li></ul><p><strong>Special Mechanics for the Storm Gemstone:</strong></p><ul><li><strong>Effect:</strong> The holder can summon a storm once per day (lasts d6 hours, deals d6 damage to enemies in combat).</li><li><strong>Curse:</strong> The holder must test <strong>Spirit DR12</strong> each dawn. On a failure, they become irritable and paranoid. After failing three times, they suffer a permanent -1 Spirit and gain a <strong>Madness Effect</strong>.</li></ul><hr /><h3><strong>Escape and Epilogue</strong></h3><p><strong>The Rowboat Repair:</strong></p><ul><li>The players find an old, barnacle-covered <strong>rowboat</strong> among the wreckage.</li><li><strong>Repair Time:</strong> 2 days of work (or test Skill DR12 to repair in half the time).</li><li>On success: The rowboat is seaworthy, capable of holding the group and carrying their plunder.</li></ul><p><strong>Narration (if they set sail):</strong><br />“The island fades behind you, the storm banished as you row toward the horizon. The sea sparkles like molten silver, and the taste of freedom is sweet upon the wind.”</p><hr /><h3></h3>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "XiZOhGDOtvh215YM": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.0.5",
+        "createdTime": 1736183892135,
+        "modifiedTime": 1736195646760,
+        "lastModifiedBy": "XiZOhGDOtvh215YM"
+      }
+    },
+    {
+      "sort": 400000,
+      "name": "Outcome Variations",
+      "type": "text",
+      "_id": "NbHGlaP5FcGakwzI",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h3><strong>Outcome Variations:</strong></h3><ul><li><strong>If the Gemstone is kept:</strong> The crew may become infamous as \"Masters of the Storm,\" feared across the seas. But whispers of the gemstone’s curse may draw unwanted attention from sorcerers, cultists, or rival pirates.</li><li><strong>If the Gemstone is destroyed:</strong> The storm’s fury ends forever. Calm seas await, and tales of their heroism may spread to coastal towns.</li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "XiZOhGDOtvh215YM": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.0.5",
+        "createdTime": 1736192519652,
+        "modifiedTime": 1736195674880,
+        "lastModifiedBy": "XiZOhGDOtvh215YM"
+      }
+    },
+    {
+      "sort": 0,
+      "name": "Introduction",
+      "type": "text",
+      "_id": "irlRouMejTPsfpZk",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><em>“The sea is a cruel mistress—she gives, but only to take more than you’d ever bargained for.”</em></p><p><em>“Your tale begins with splinters and salt. You awaken, coughing up brine, the cold grit of sand between your teeth. The storm rages above—a vast, swirling eye of wrath that seems to tear open the heavens.”</em></p><p><em>“Around you, the wreckage of your ship—broken masts like fallen giants, crates split open, and the tattered Jolly Roger half-buried in the wet sand.”</em></p><p><strong> </strong></p><p><br /><em>“Your memories are as scattered as the debris. The last thing you recall is the wave—a towering beast of water that swallowed the ship whole. And now, you are here… wherever here is.”</em></p><p></p><p>The sky above crackles with blinding streaks of lightning, jagged veins that slice through the dark storm clouds like the fury of some vengeful god. Each flash bathes the world in a ghostly, electric glow, revealing the twisted jungle ahead. The trees are gnarled sentinels, their crooked branches clawing at the sky like skeletal hands reaching for release.</p><p>The jungle itself seems to shift and breathe. The thick underbrush sways not only with the wind but with something else—<em>something unseen</em>. Ferns quiver as shadows coil and slither between their fronds, moving unnaturally, as though with purpose. The vines hanging from the canopy drip with rain, swaying like serpents poised to strike. The very air feels heavy, thick with salt and the scent of wet earth, carrying the faint murmur of whispers—low and indistinct, as if the island itself mutters secrets just out of earshot.</p><p>The path ahead disappears into darkness, a tunnel of green obscurity where each step feels watched and judged. The jungle is alive... and it watches you.</p><p></p><p><strong>HM (In-Character):</strong><br />“You’ve heard whispers in every port tavern: islands where storms never sleep, haunted waters where the dead crew their ships long after they’ve sunk. You thought them the drunken ramblings of washed-up sailors. But this place... this island... makes you wonder if those stories were warnings.”</p><p><em>“Your instincts scream at you—this is no ordinary island. The sea itself spat you here for a reason.”</em></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "XiZOhGDOtvh215YM": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.0.5",
+        "createdTime": 1736196376587,
+        "modifiedTime": 1736197818708,
+        "lastModifiedBy": "XiZOhGDOtvh215YM"
+      }
+    },
+    {
+      "sort": -100000,
+      "name": "Cover Art",
+      "type": "image",
+      "_id": "zijj6YlteuwCfzqt",
+      "system": {},
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {
+        "caption": "“You’ve heard whispers in every port tavern: islands where storms never sleep, haunted waters where the dead crew their ships long after they’ve sunk. You thought them the drunken ramblings of washed-up sailors. But this place... this island... makes you wonder if those stories were warnings.”  “Your instincts scream at you—this is no ordinary island. The sea itself spat you here for a reason.\""
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "Tempest%27s%20Wrath.png",
+      "ownership": {
+        "default": -1,
+        "XiZOhGDOtvh215YM": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.0.5",
+        "createdTime": 1736197586979,
+        "modifiedTime": 1736199108526,
+        "lastModifiedBy": "XiZOhGDOtvh215YM"
+      }
+    }
+  ],
+  "flags": {
+    "exportSource": {
+      "world": "welcome-to-da-borg",
+      "system": "pirateborg",
+      "coreVersion": "12.331",
+      "systemVersion": "v1.0.5"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "pirateborg",
+    "systemVersion": "v1.0.5",
+    "createdTime": 1736182592570,
+    "modifiedTime": 1736182592570,
+    "lastModifiedBy": "XiZOhGDOtvh215YM"
+  }
+}

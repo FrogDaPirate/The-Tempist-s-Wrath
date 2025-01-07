@@ -1,0 +1,39 @@
+{
+  "id": "the-tempests-wrath",
+  "title": "The Tempest's Wrath",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pirateborg",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Ray Maddox",
+      "discord": "FrogDaPirate",
+      "flags": {}
+    }
+  ],
+  "url": "https://raw.githubusercontent.com/FrogDaPirate/The-Tempest-s-Wrath/refs/heads/main/module.json",
+  "packs": [
+    {
+      "name": "the-tempists-wrath",
+      "label": "The Tempists Wrath",
+      "path": "packs/the-tempists-wrath",
+      "type": "Adventure",
+      "system": "pirateborg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
