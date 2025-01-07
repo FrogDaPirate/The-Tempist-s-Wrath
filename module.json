@@ -24,6 +24,8 @@
   ],
   "url": "https://github.com/FrogDaPirate/The-Tempist-s-Wrath",
   "manifest": "https://github.com/FrogDaPirate/The-Tempist-s-Wrath/releases/latest/download/module.json",
+  "download": "https://github.com/FrogDaPirate/The-Tempist-s-Wrath/releases/download/1.0.2/module.zip",
+
   "packs": [
     {
       "name": "the-tempists-wrath",
