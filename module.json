@@ -22,7 +22,8 @@
       "flags": {}
     }
   ],
-  "url": "https://raw.githubusercontent.com/FrogDaPirate/The-Tempist-s-Wrath/refs/heads/main",
+  "url": "https://github.com/FrogDaPirate/The-Tempist-s-Wrath",
+  "manifest": "https://raw.githubusercontent.com/FrogDaPirate/The-Tempist-s-Wrath/refs/heads/main/module.json",
   "packs": [
     {
       "name": "the-tempists-wrath",
