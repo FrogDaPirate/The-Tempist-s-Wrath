@@ -1,0 +1,311 @@
+{
+  "folder": "R2lL3X5bYAGC4kYV",
+  "name": "Player Class: Stormcaller",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Stormcaller",
+      "type": "image",
+      "_id": "jgKSJwlFBm9ZrNGg",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {
+        "caption": "\"The sky's wrath runs through their veins. The sea roars when they step upon its deck, and the heavens split open at their command. No captain dares challenge the fury of a Stormcaller and survive unscorched.\"  Stormcallers are wild, weathered mystics who draw their strength from the primal fury of the storm. They wield lightning, command tempests, and harness the rage of the skies to devastate their foes or protect their allies."
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "systems/pirateborg/icons/misc/Stormcaller.png",
+      "ownership": {
+        "default": -1,
+        "XiZOhGDOtvh215YM": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.0.5",
+        "createdTime": 1736157015985,
+        "modifiedTime": 1736186176934,
+        "lastModifiedBy": "XiZOhGDOtvh215YM"
+      }
+    },
+    {
+      "sort": 200000,
+      "name": "Starting Feature",
+      "type": "text",
+      "_id": "Av0ZsQ2r4MQClI6D",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<ol><li><strong>Fury of the Sky</strong>: Call down a bolt of lightning from above (Presence DR12). Deal 2d8 damage to one target. On a fumble, it hits you or an ally instead.</li><li><strong>Storm Touched</strong>: Your melee weapon crackles with electricity. Add +d4 lightning damage for d6 rounds.</li><li><strong>Voice of Thunder</strong>: Your voice booms like thunder (Spirit DR12). All creatures within 20 feet must pass a Spirit test or be frightened for 1d4 rounds.</li><li><strong>Tempest’s Grace</strong>: Gain a surge of speed. Move +2 hexes and take an additional melee or ranged action for one round.</li><li><strong>Electric Shield</strong>: Summon a field of crackling energy (Spirit DR14). It absorbs 2d6 damage before dissipating.</li><li><strong>Summon Stormfront</strong>: After 1d6 rounds, a violent thunderstorm forms in a 100-foot radius. All attacks are DR+2, and each round, roll d6: On a 6, lightning strikes a random enemy (3d6 damage).</li></ol>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "XiZOhGDOtvh215YM": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.0.5",
+        "createdTime": 1736159444841,
+        "modifiedTime": 1736187711620,
+        "lastModifiedBy": "XiZOhGDOtvh215YM"
+      }
+    },
+    {
+      "sort": 300000,
+      "name": "Class Modifiers",
+      "type": "text",
+      "_id": "3Akq2siipVassx5x",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Special Ability:</strong> <strong>Conduit of the Storm:</strong> Immune to natural lightning damage; recover 1 HP every time a storm's lightning strikes within sight.</p><p><strong>Special Ability: Stormsurge: </strong></p><p>May use Devil's luck or Trade 1 HP to cast from the Advanced Class Spells Table</p><p></p><p>Starting HP = Spirit + D6</p><p>+1 Spirit</p><p>+1 Agility</p><p>-1 Toughness</p><p>-1 Strength</p><p></p><p>Starts with 1 item from class Equipment Table</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "XiZOhGDOtvh215YM": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.0.5",
+        "createdTime": 1736159617284,
+        "modifiedTime": 1736161060757,
+        "lastModifiedBy": "XiZOhGDOtvh215YM"
+      }
+    },
+    {
+      "sort": 400000,
+      "name": "Equipment Table",
+      "type": "text",
+      "_id": "BVZcMz9axKlzMpEu",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2><strong>Equipment Table (Roll d6)</strong></h2><ol><li><strong>Stormcaller’s Trident</strong>: A three-pronged spear that deals d8 lightning damage when thrown in storms (can be summoned back).</li><li><strong>Crackling Cloak</strong>: Grants +1 DR against lightning-based attacks and makes you immune to stun effects.</li><li><strong>Lightning Charm</strong>: Once per day, re-roll a failed Spirit check.</li><li><strong>Electrified Net</strong>: A net crackling with stored energy (deals d4 damage per round to trapped foes).</li><li><strong>Glass Bottle of Storm-Wine</strong>: Drinking this heals d6 HP and crackles with static charge (+1 to your next Spirit roll).</li><li><strong>Weathered Compass</strong>: A mystical compass always points towards the nearest storm or source of powerful magic.</li></ol>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "XiZOhGDOtvh215YM": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.0.5",
+        "createdTime": 1736160167752,
+        "modifiedTime": 1736186583575,
+        "lastModifiedBy": "XiZOhGDOtvh215YM"
+      }
+    },
+    {
+      "sort": 500000,
+      "name": "Getting Better",
+      "type": "text",
+      "_id": "UoGEO4WLnFhcu7Al",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2><strong>Advancements (Roll 1d6 or Choose)</strong></h2><ol><li><strong>Chain Lightning</strong>: Your bolts of lightning arc between up to 3 targets. Each target takes 1d6 damage.</li><li><strong>Stormsurge</strong>: Once per day, call a torrential downpour that extinguishes flames, obscures sight, and halves ranged attack ranges.</li><li><strong>Eye of the Storm</strong>: Once per day, become the calm at the center of chaos. No ranged or area effect can hit you for 1d6 rounds.</li><li><strong>Wrathful Strike</strong>: Add +d8 damage to your melee attack after you’ve been struck by a lightning attack or ability.</li><li><strong>Electrostatic Pulse</strong>: Release a shockwave of static energy that pushes all enemies within 15 feet back (Strength DR14).</li><li><strong>Arcane Battery</strong>: Absorb magical energy to regain Spirit points or redirect an energy-based attack (DR12 to redirect).</li></ol><p></p><p>Test Spirit DR12 on failure roll from Stormcaller Arcane Mishaps Table</p><div class=\"flex-shrink-0 flex flex-col relative items-end\"><div><div class=\"pt-0\"><div class=\"gizmo-bot-avatar flex h-8 w-8 items-center justify-center overflow-hidden rounded-full\"><div class=\"relative p-1 rounded-sm flex items-center justify-center bg-token-main-surface-primary text-token-text-primary h-8 w-8\"><p></p></div></div></div></div></div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "XiZOhGDOtvh215YM": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.0.5",
+        "createdTime": 1736161087376,
+        "modifiedTime": 1736186366834,
+        "lastModifiedBy": "XiZOhGDOtvh215YM"
+      }
+    },
+    {
+      "sort": 600000,
+      "name": "Shocking Results",
+      "type": "text",
+      "_id": "wFqpOMjM5aXRWtfA",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<img src=\"stormcaller%20Icon.png\" width=\"150\" height=\"150\" /><h2><strong>Arcane Mishaps (Roll d20)</strong></h2><p>When the Stormcaller fails to control the fury of the storm:</p><ol><li>A flash of lightning blinds you for d4 rounds.</li><li>You lose control—the nearest ally is struck by a bolt of energy (2d8 damage).</li><li>An unnatural stillness—the wind halts, and your next attack is cursed (DR+4).</li><li>Your pulse crackles with energy—your next touch deals d6 damage to yourself.</li><li>Rain begins to fall in torrents, washing away tracks but flooding nearby areas.</li><li>Thunder deafens everyone within 30 feet for d6 rounds.</li><li>You are launched 10 feet into the air by an errant gust of wind.</li><li>Your clothing and hair rise with static. Roll DR12—if failed, take d4 lightning damage.</li><li>A small tempest elemental (HP 8) appears, hostile to everyone.</li><li>The sky darkens ominously, unnerving all NPCs for d6 minutes.</li><li>Your weapon is wrenched from your grasp by a sudden whirlwind.</li><li>Static clings to you—items made of metal (including armor) heat up and burn for d2 damage.</li><li>You discharge static energy and destroy one fragile nearby object.</li><li>The storm above turns red, spooking the crew and causing morale checks.</li><li>Your next Spirit test is cursed—automatically fumble if failed.</li><li>Your body becomes semi-transparent as lightning pulses within you (Presence DR+2).</li><li>Your voice booms, but uncontrollably—every creature knows your location.</li><li>A lightning strike misses and sets nearby rigging ablaze.</li><li>You hear whispers in the crack of the thunder (Spirit DR12). Fail: suffer a nightmare vision.</li><li>Time seems to slow as a bolt of energy strikes your heart. Gain +1 Spirit permanently—but roll on the mystical mishap table.</li></ol>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "XiZOhGDOtvh215YM": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.0.5",
+        "createdTime": 1736161401478,
+        "modifiedTime": 1736180891863,
+        "lastModifiedBy": "XiZOhGDOtvh215YM"
+      }
+    },
+    {
+      "sort": 700000,
+      "name": "Lightning Spells",
+      "type": "text",
+      "_id": "jr7f3AOicXfKaNnE",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h3>1. <strong>Spark Jolt</strong></h3><ul><li><strong>Type:</strong> Minor Arcane Jolt</li><li><strong>Effect:</strong> A crackling spark of electricity arcs from your fingertips to a nearby enemy.</li><li><strong>Range:</strong> 30 feet</li><li><strong>Target:</strong> Single creature</li><li><strong>Damage:</strong> 1d4 ⚡ (ignores armor)</li><li><strong>Additional Effect:</strong> On a natural 20, the target's next action is delayed due to muscle spasms.</li><li><strong>Mishap:</strong> Your hand tingles painfully, causing a -1 penalty to Strength rolls for 1 minute.</li></ul><hr /><h3>2. <strong>Storm Grasp</strong></h3><ul><li><strong>Type:</strong> Binding Arcana</li><li><strong>Effect:</strong> Your hand crackles with electricity, allowing you to seize a foe and channel raw energy.</li><li><strong>Range:</strong> Touch</li><li><strong>Target:</strong> Single creature</li><li><strong>Damage:</strong> 1d6 ⚡ + the target must pass a Strength DR12 or be restrained until the end of their next turn.</li><li><strong>Additional Effect:</strong> On a fumble, you take the damage instead!</li><li><strong>Duration:</strong> Instant</li></ul><hr /><h3>3. <strong>Chain Bolt</strong></h3><ul><li><strong>Type:</strong> Mid-tier Arcane Shock</li><li><strong>Effect:</strong> A forked bolt leaps from the caster to multiple nearby targets.</li><li><strong>Range:</strong> 50 feet</li><li><strong>Targets:</strong> 3 creatures within 10 feet of each other</li><li><strong>Damage:</strong> 1d8 ⚡ per target</li><li><strong>Additional Effect:</strong> Any creature struck must pass a Toughness DR10 or drop their weapon.</li><li><strong>Duration:</strong> Instant</li></ul><hr /><h3>4. <strong>Lightning Ward</strong></h3><ul><li><strong>Type:</strong> Arcane Defense</li><li><strong>Effect:</strong> A protective barrier of crackling lightning surrounds you or an ally.</li><li><strong>Range:</strong> Self or 1 target within 10 feet</li><li><strong>Duration:</strong> 1 minute or until 3 attacks are absorbed</li><li><strong>Effect:</strong> Adds armor tier -d4 to the target against ranged and melee attacks.</li><li><strong>Additional Effect:</strong> Creatures striking the warded target in melee take 1d4 ⚡ damage (ignoring armor).</li></ul><hr /><h3>5. <strong>Tempest Lance</strong></h3><ul><li><strong>Type:</strong> Lethal Arcane Spear</li><li><strong>Effect:</strong> A massive bolt of condensed lightning surges through the air, striking with devastating force.</li><li><strong>Range:</strong> 100 feet</li><li><strong>Target:</strong> Single creature</li><li><strong>Damage:</strong> 3d8 ⚡</li><li><strong>Additional Effect:</strong> Any creature within 10 feet of the primary target must pass Agility DR14 or take 1d8 ⚡ damage.</li><li><strong>Duration:</strong> Instant</li></ul><hr /><h3>6. <strong>Maelstrom Surge</strong></h3><ul><li><strong>Type:</strong> Ultimate Arcane Cataclysm</li><li><strong>Effect:</strong> You call upon the storm itself, summoning a swirling mass of lightning to devastate your enemies.</li><li><strong>Range:</strong> 60-foot radius (centered on a point within 100 feet)</li><li><strong>Damage:</strong> 4d10 ⚡ to all creatures in the area (Agility DR14 for half damage).</li><li><strong>Additional Effect:</strong> All ships or vessels within the radius must make a Stability DR15 or become immobilized for 1d4 turns.</li><li><strong>Duration:</strong> Instant</li><li><strong>Mishap:</strong> If a fumble is rolled during casting, you are struck by a bolt from the storm and take 2d10 ⚡ damage.</li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "XiZOhGDOtvh215YM": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.0.5",
+        "createdTime": 1736186865876,
+        "modifiedTime": 1736187981389,
+        "lastModifiedBy": "XiZOhGDOtvh215YM"
+      }
+    },
+    {
+      "sort": 800000,
+      "name": "Class Mechanics",
+      "type": "text",
+      "_id": "6sLnMU59N8yU3EDl",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h3>⚡ <strong>Static Charge Mechanic</strong> ⚡</h3><p>The <strong>Static Charge</strong> system operates similarly to the Sorcerer’s Soul mechanic but is infused with thematic lightning-based flavor. Static Charge empowers the caster with every successful spell but risks catastrophic overload.</p><hr /><h3><strong>Static Charge Mechanic Overview</strong></h3><ul><li><strong>Static Charges (⚡):</strong> Represents the raw, stored lightning energy that builds within the Stormcaller after casting spells or taking damage.</li><li><strong>Max Charges:</strong> The Stormcaller can hold up to <strong>6 Static Charges</strong>.</li><li>If the Stormcaller exceeds this limit, they must make a <strong>SPIRIT DR12</strong> check or trigger <strong>Arcane Overload</strong>.</li></ul><hr /><h3><strong>Gaining Static Charges</strong></h3><ol><li><p><strong>Casting a Lightning Spell:</strong><br />Each time you successfully cast a lightning-themed spell, gain <strong>1 Static Charge</strong>.</p></li><li><p><strong>Taking Lightning Damage:</strong><br />If you take lightning damage, roll <strong>Toughness DR10</strong>:</p><ul><li>Success: Absorb the energy and gain <strong>1 Static Charge</strong> (instead of taking damage).</li><li>Failure: Take full damage.</li></ul></li><li><p><strong>Critical Hits on a Spell:</strong><br />On a <strong>natural 20</strong> when casting a lightning spell, gain <strong>2 Static Charges</strong>.</p></li></ol><hr /><h3><strong>Using Static Charges</strong></h3><ul><li><p><strong>Enhanced Spells:</strong><br />Spend <strong>1–3 Static Charges</strong> to reduce the <strong>DR</strong> of your next lightning-based spell by <strong>-2 per charge</strong> (minimum DR8).</p></li><li><p><strong>Chain Lightning:</strong><br />Spend <strong>3 Static Charges</strong> to add <strong>1 extra target</strong> to any multi-target lightning spell.</p></li><li><p><strong>Shock Shield:</strong><br />Spend <strong>2 Static Charges</strong> to create a protective aura for 1d4 rounds. Melee attackers must pass <strong>Agility DR12</strong> or take <strong>1d6 ⚡</strong> damage when striking you.</p></li></ul><hr /><h3><strong>Arcane Overload</strong></h3><p>If you exceed 6 Static Charges without releasing them, roll <strong>SPIRIT DR12</strong>:</p><ul><li><strong>Fail:</strong> You lose control of the energy, unleashing a surge of destructive force.</li><li><strong>Effect:</strong> All creatures within 15 feet take <strong>2d10 ⚡</strong> damage (Agility DR14 to halve). You are <strong>stunned</strong> for <strong>1 round</strong>.</li><li><strong>Success:</strong> You resist the surge and immediately discharge <strong>3 Static Charges</strong> harmlessly.</li></ul><hr /><h3><strong>Discharging Static Charges Safely</strong></h3><ul><li>You can choose to discharge Static Charges during your turn without casting a spell.</li><li><p>Roll <strong>Presence DR10</strong>:</p><ul><li><strong>Success:</strong> The Static Charges dissipate safely.</li><li><strong>Failure:</strong> Lose <strong>1 HP per charge</strong> discharged due to the painful release.</li></ul></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "XiZOhGDOtvh215YM": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.0.5",
+        "createdTime": 1736187737088,
+        "modifiedTime": 1736187756554,
+        "lastModifiedBy": "XiZOhGDOtvh215YM"
+      }
+    }
+  ],
+  "flags": {
+    "exportSource": {
+      "world": "welcome-to-da-borg",
+      "system": "pirateborg",
+      "coreVersion": "12.331",
+      "systemVersion": "v1.0.5"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "pirateborg",
+    "systemVersion": "v1.0.5",
+    "createdTime": 1736156998222,
+    "modifiedTime": 1736156998222,
+    "lastModifiedBy": "XiZOhGDOtvh215YM"
+  }
+}

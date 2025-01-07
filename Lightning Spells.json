@@ -1,0 +1,58 @@
+{
+  "folder": "R2lL3X5bYAGC4kYV",
+  "name": "Lightning Spells",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Elemental Spells: Lightning",
+      "type": "text",
+      "_id": "KH2S1yG1uIPCL80K",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h3>1. <strong>Spark Jolt</strong></h3><ul><li><strong>Type:</strong> Minor Arcane Jolt</li><li><strong>Effect:</strong> A crackling spark of electricity arcs from your fingertips to a nearby enemy.</li><li><strong>Range:</strong> 30 feet</li><li><strong>Target:</strong> Single creature</li><li><strong>Damage:</strong> 1d4 ⚡ (ignores armor)</li><li><strong>Additional Effect:</strong> On a natural 20, the target's next action is delayed due to muscle spasms.</li><li><strong>Mishap:</strong> Your hand tingles painfully, causing a -1 penalty to Strength rolls for 1 minute.</li></ul><hr /><h3>2. <strong>Storm Grasp</strong></h3><ul><li><strong>Type:</strong> Binding Arcana</li><li><strong>Effect:</strong> Your hand crackles with electricity, allowing you to seize a foe and channel raw energy.</li><li><strong>Range:</strong> Touch</li><li><strong>Target:</strong> Single creature</li><li><strong>Damage:</strong> 1d6 ⚡ + the target must pass a Strength DR12 or be restrained until the end of their next turn.</li><li><strong>Additional Effect:</strong> On a fumble, you take the damage instead!</li><li><strong>Duration:</strong> Instant</li></ul><hr /><h3>3. <strong>Chain Bolt</strong></h3><ul><li><strong>Type:</strong> Mid-tier Arcane Shock</li><li><strong>Effect:</strong> A forked bolt leaps from the caster to multiple nearby targets.</li><li><strong>Range:</strong> 50 feet</li><li><strong>Targets:</strong> 3 creatures within 10 feet of each other</li><li><strong>Damage:</strong> 1d8 ⚡ per target</li><li><strong>Additional Effect:</strong> Any creature struck must pass a Toughness DR10 or drop their weapon.</li><li><strong>Duration:</strong> Instant</li></ul><hr /><h3>4. <strong>Lightning Ward</strong></h3><ul><li><strong>Type:</strong> Arcane Defense</li><li><strong>Effect:</strong> A protective barrier of crackling lightning surrounds you or an ally.</li><li><strong>Range:</strong> Self or 1 target within 10 feet</li><li><strong>Duration:</strong> 1 minute or until 3 attacks are absorbed</li><li><strong>Effect:</strong> Adds armor tier -d4 to the target against ranged and melee attacks.</li><li><strong>Additional Effect:</strong> Creatures striking the warded target in melee take 1d4 ⚡ damage (ignoring armor).</li></ul><hr /><h3>5. <strong>Tempest Lance</strong></h3><ul><li><strong>Type:</strong> Lethal Arcane Spear</li><li><strong>Effect:</strong> A massive bolt of condensed lightning surges through the air, striking with devastating force.</li><li><strong>Range:</strong> 100 feet</li><li><strong>Target:</strong> Single creature</li><li><strong>Damage:</strong> 3d8 ⚡</li><li><strong>Additional Effect:</strong> Any creature within 10 feet of the primary target must pass Agility DR14 or take 1d8 ⚡ damage.</li><li><strong>Duration:</strong> Instant</li></ul><hr /><h3>6. <strong>Maelstrom Surge</strong></h3><ul><li><strong>Type:</strong> Ultimate Arcane Cataclysm</li><li><strong>Effect:</strong> You call upon the storm itself, summoning a swirling mass of lightning to devastate your enemies.</li><li><strong>Range:</strong> 60-foot radius (centered on a point within 100 feet)</li><li><strong>Damage:</strong> 4d10 ⚡ to all creatures in the area (Agility DR14 for half damage).</li><li><strong>Additional Effect:</strong> All ships or vessels within the radius must make a Stability DR15 or become immobilized for 1d4 turns.</li><li><strong>Duration:</strong> Instant</li><li><strong>Mishap:</strong> If a fumble is rolled during casting, you are struck by a bolt from the storm and take 2d10 ⚡ damage.</li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "XiZOhGDOtvh215YM": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.0.5",
+        "createdTime": 1736186744228,
+        "modifiedTime": 1736186923665,
+        "lastModifiedBy": "XiZOhGDOtvh215YM"
+      }
+    }
+  ],
+  "flags": {
+    "exportSource": {
+      "world": "welcome-to-da-borg",
+      "system": "pirateborg",
+      "coreVersion": "12.331",
+      "systemVersion": "v1.0.5"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "pirateborg",
+    "systemVersion": "v1.0.5",
+    "createdTime": 1736186725465,
+    "modifiedTime": 1736186725465,
+    "lastModifiedBy": "XiZOhGDOtvh215YM"
+  }
+}

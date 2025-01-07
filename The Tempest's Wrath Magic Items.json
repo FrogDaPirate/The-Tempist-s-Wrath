@@ -1,0 +1,307 @@
+{
+  "folder": "9J4dRPsJ2xp9F8Ru",
+  "name": "Tempest's Wrath Magical Items",
+  "img": "Magic%20Item%20Rolltable.png",
+  "description": "<p>Twenty new magical items for use with the Tempest's Wrath Campaign</p><p>Have Fun Harbor Masters</p>",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "5LyBCJh50zoJWl2x",
+      "text": "Stormbringer Cutlass A silver-edged cutlass crackling with static. Effect: On a successful hit, roll a d4. On a 4, the target takes an additional d4 lightning damage.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "K9hZvfCE5qyLPpJf",
+      "text": "Tempest Stone A palm-sized gemstone that hums with thunderous energy. Effect: Once per day, summon a violent storm for 1 hour. All ranged attacks are +2 DR during this time.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "84FeGhl5z1UCEWlO",
+      "text": "Rod of the Thundercaller A weathered staff tipped with a glass orb that crackles with sparks. Effect: Casts Call Lightning once per day (Presence DR12). Deals d6 damage in a 20’ radius.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "XgRMTV2Gufuj0TAi",
+      "text": "Gale-Warden Cloak A cloak that flows unnaturally, as if caught in a perpetual breeze. Effect: Grants the wearer immunity to falling damage and +2 to Agility tests against forced movement.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "rJP9JAQFtpP9ZObC",
+      "text": "Storm Gauntlet An iron gauntlet wrapped in coils of silver and etched with storm glyphs. Effect: Unarmed strikes deal d6 lightning damage. Once per rest, unleash a Lightning Arc (Presence DR14, d8 damage to two targets within 15').",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "AKZtEQBndtWzIhYp",
+      "text": "Voltaic Compass A compass with jagged lines of energy swirling within its glass face. Effect: Points toward the nearest source of magical energy and crackles when within 100 feet.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "SE8spXnz5ipI6oyS",
+      "text": "Electrified Net A fishing net laced with glowing silver threads. Effect: When thrown (Presence DR10), entangles a target. The target takes d4 lightning damage if it tries to break free.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "mTuUa2gxNr4lpoLZ",
+      "text": "Sky Piercer Harpoon A harpoon with a shaft made of solidified stormcloud. Effect: On a successful hit, deal d10 lightning damage. If thrown during a storm, it returns to the wielder's hand.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "bXBjtp9ZeUxpJQcR",
+      "text": "Stormchaser’s Boots Boots engraved with swirling wind patterns. Effect: Wearer can dash across water for up to 30 feet. Once per day, double movement speed for 1 round.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "zRy7YgmNSCZagU7D",
+      "text": "Sparkshot Pistol A flintlock modified with a copper coil and charged crystal. Effect: Fires a bolt of lightning (Presence DR14, range 40’, d8 lightning damage). Must recharge after firing.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "V2iwhSVUKB0X041o",
+      "text": "Thunderhead Amulet A necklace holding a swirling, miniature stormcloud. Effect: Once per day, create a deafening Thunderclap (Presence DR12). All within 20’ must pass Toughness DR10 or be deafened for d4 rounds.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "7xQZdOL0dXAktjRN",
+      "text": "Stormwarden’s Helm A helm shaped like a crashing wave, with crackling inlays. Effect: Grants immunity to paralysis and grants +2 DR against lightning-based attacks.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_id": "VjNNzq2cMN3blcrM",
+      "text": "Chain of Tempests A golden chain adorned with storm-battered coins. Effect: Can bind a summoned spirit or creature for 1 hour. Any bound entity takes d6 lightning damage if it resists commands.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_id": "nOG4blENec6Z7VN9",
+      "text": "Static Blade A slender sword that hums with potential energy. Effect: On a crit, the weapon discharges a shockwave (10' radius). All creatures in range must test Agility DR12 or take d4 damage.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_id": "yg6UIKG5xbrph0Gy",
+      "text": "Boltbiter Arrows Arrows tipped with jagged pieces of storm metal. Effect: When fired (Agility DR12), bolts of lightning leap between nearby enemies (deal d6 to up to 2 nearby targets).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_id": "UW1mAr79as4zt65o",
+      "text": "Heart of the Tempest A heart-shaped crystalline orb pulsing with arcs of electricity. Effect: Grants +2 to all Presence tests involving weather. Once per day, unleash a Chain Lightning spell (3 targets, d8 damage each).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_id": "F9jmppe6hkDz51Z3",
+      "text": "Stormshroud Armor A suit of light chainmail infused with storm energy. Effect: Grants -d2 damage reduction. On a successful defense roll, attackers take d4 lightning damage.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_id": "MflAaQzYHnFuQoHz",
+      "text": "Siren’s Call Lantern A brass lantern with a flickering, storm-blue flame. Effect: Attracts lightning strikes (Presence DR10). Anyone standing within 10 feet takes half damage from storm-related effects.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_id": "yaWVzO2cXTyHlHfS",
+      "text": "Eye of the Storm A monocle with a swirling blue lens. Effect: When worn, allows the user to see through natural and magical storms and fogs. Once per day, allows the wearer to predict the weather with perfect accuracy.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "GuDZBLABBZRjSJOy",
+      "text": "Tempest Fang A jagged dagger made from the tooth of a lightning beast. Effect: On a successful backstab, the target takes an additional d8 lightning damage and must test Toughness DR12 or be stunned for 1 round.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "welcome-to-da-borg",
+      "system": "pirateborg",
+      "coreVersion": "12.331",
+      "systemVersion": "v1.0.5"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "pirateborg",
+    "systemVersion": "v1.0.5",
+    "createdTime": 1736197892374,
+    "modifiedTime": 1736200087085,
+    "lastModifiedBy": "XiZOhGDOtvh215YM"
+  },
+  "formula": "1d20"
+}

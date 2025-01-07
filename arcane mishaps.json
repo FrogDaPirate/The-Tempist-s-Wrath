@@ -1,0 +1,307 @@
+{
+  "folder": "9J4dRPsJ2xp9F8Ru",
+  "name": "Stormcaller Arcane Mishaps",
+  "img": "stormcaller%20Icon.png",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "J1eNsrGAeHJ6sYvk",
+      "text": "A flash of lightning blinds you for d4 rounds.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "a7ePI4kV3HWOyBgx",
+      "text": "You lose control—the nearest ally is struck by a bolt of energy (2d8 damage).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "0gje7PDZKv3yUYR7",
+      "text": "An unnatural stillness—the wind halts, and your next attack is cursed (DR+4).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "4h2N61gRxk5cooV9",
+      "text": "Your pulse crackles with energy—your next touch deals d6 damage to yourself.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "96iBhop77zaljc75",
+      "text": "Rain begins to fall in torrents, washing away tracks but flooding nearby areas.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "jKeaB6gqfVxbNAFL",
+      "text": "Thunder deafens everyone within 30 feet for d6 rounds.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "mHO36c9ix3Wd6XJ3",
+      "text": "You are launched 10 feet into the air by an errant gust of wind.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "s5CEDsM99b2jWjJS",
+      "text": "Your clothing and hair rise with static. Roll DR12—if failed, take d4 lightning damage.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "DeGrOlWBZjpi6n5X",
+      "text": "A small tempest elemental (HP 8) appears, hostile to everyone.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "IB2vvxVquuuOKG7l",
+      "text": "The sky darkens ominously, unnerving all NPCs for d6 minutes.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "1FOHgQtWRVkwScsX",
+      "text": "Your weapon is wrenched from your grasp by a sudden whirlwind.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "Ih97ZxoFmpdvHFpW",
+      "text": "Static clings to you—items made of metal (including armor) heat up and burn for d2 damage.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_id": "aR2dIpT14WJprh0K",
+      "text": "You discharge static energy and destroy one fragile nearby object.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_id": "G5vcSSoKaV7GS66X",
+      "text": "The storm above turns red, spooking the crew and causing morale checks.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_id": "GQx6z22emU1Bj6h3",
+      "text": "Your next Spirit test is cursed—automatically fumble if failed.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_id": "bQNU5zuNR79kcTnn",
+      "text": "Your body becomes semi-transparent as lightning pulses within you (Presence DR+2).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_id": "OFy9HFtSLVnZU5Sf",
+      "text": "Your voice booms, but uncontrollably—every creature knows your location.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_id": "7eEopTWZa4D66cfb",
+      "text": "A lightning strike misses and sets nearby rigging ablaze.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_id": "bCyk6FFZ2J6qv2QF",
+      "text": "You hear whispers in the crack of the thunder (Spirit DR12). Fail: suffer a nightmare vision.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "phhctk80uF0UJl4H",
+      "text": "Time seems to slow as a bolt of energy strikes your heart. Gain +1 Spirit permanently—but roll on the mystical mishap table.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "welcome-to-da-borg",
+      "system": "pirateborg",
+      "coreVersion": "12.331",
+      "systemVersion": "v1.0.5"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "pirateborg",
+    "systemVersion": "v1.0.5",
+    "createdTime": 1736179329011,
+    "modifiedTime": 1736180372036,
+    "lastModifiedBy": "XiZOhGDOtvh215YM"
+  },
+  "formula": "1d20"
+}

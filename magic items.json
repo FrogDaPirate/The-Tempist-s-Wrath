@@ -1,0 +1,307 @@
+{
+  "folder": "9J4dRPsJ2xp9F8Ru",
+  "name": "Magic Items",
+  "img": "Magic%20Item%20Rolltable.png",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "aOyyGHTTpLPBKOTO",
+      "text": "Black Powder of the Abyss\tOne shot of black powder that deals 2d12 damage in a 20-foot radius, but summons an eldritch mist for 1d4 rounds.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "QJLrdocwn74itUZW",
+      "text": "Captain’s Compass\tAlways points to the nearest treasure worth at least 100 silver.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "KM9sYxGqXyA9zBY7",
+      "text": "Bloodthirsty Cutlass\td8 damage; heals wielder for half the damage dealt on a crit.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "4NxSD9pY7Mo6DLBN",
+      "text": "Whispering Locket\tCan store one whisper that can be replayed at will; unlocks hidden ghost secrets (Presence DR14 to hear).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "XbRo79zAeGCefYNH",
+      "text": "Bone Harpoon of Souls\td6 damage; on a crit, traps the enemy’s soul (1 use; requires Spirit DR16 to resist).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "OQnqXetlOcHpC5Fd",
+      "text": "Ring of Devil’s Luck\tGrants +1 Devil’s Luck point, but causes you to lose 1 HP every dawn.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "adewDRd34AaDhJzd",
+      "text": "Bottled Tempest\tOnce opened, releases a hurricane in a 50-foot radius (lasts d4 rounds).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "ceVctqqe7RFA8bmd",
+      "text": "Ghost Lantern\tReveals all hidden spirits within 100 feet for 1d6 minutes.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "ZgfmeC244VDNHohL",
+      "text": "Sirenscale Amulet\tWearer gains +2 to Spirit DR tests against mental effects but must test Spirit DR12 to resist the call of the sea.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "mZS2Cs8UzT31TdQh",
+      "text": "Kraken's Eye\tA glowing orb that allows you to breathe underwater for 1 hour per day.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "4cqFPFUR9YtISbO1",
+      "text": "Dagger of Shadows\td6 damage; when thrown, teleports back into your hand after one round.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "J7irzilrBTQ6F972",
+      "text": "Ritual Mask of the Drowned\tGain +2 to Ritual Presence tests but take d6 damage when exposed to holy relics.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_id": "huoyYefpj6KIE5I9",
+      "text": "Cursed Spyglass\tCan see up to 5 miles away, but for each use, test Spirit DR12 or see a vision of your death.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_id": "RGanWDWyTaNWYl92",
+      "text": "Cannibal Totem\tGrants +2 melee damage for d6 rounds after consuming raw flesh.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_id": "Cot7IS0mPaypkd1d",
+      "text": "Siren’s Flute\tWhen played (Presence DR14), nearby enemies must test Spirit DR12 or become entranced for 1d4 rounds.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_id": "93VSXdCZTOGCKCXY",
+      "text": "Rope of Endless Coil\t100 feet of unbreakable rope that can bind any creature if they fail an Agility DR12 test.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_id": "oimL7h5YHPQqk8KO",
+      "text": "Boots of the Maelstrom\tAllows the wearer to walk on water and create 10-foot waves once per day.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_id": "6HqhZW8sSBuptgUh",
+      "text": "Obsidian Hook\tReplaces a hand; deals d8 damage and crits cause bleeding (d2 damage per round).",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_id": "B4KNAMfTjib7rbk3",
+      "text": "Breath of Leviathan\tA potion that grants the ability to exhale a 30-foot cone of steam (2d10 damage) once.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "oZsypj6rJDUsSRGI",
+      "text": "Coin of Lost Souls\tA spectral gold coin that can be exchanged for a favor from a ghost captain.",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "welcome-to-da-borg",
+      "system": "pirateborg",
+      "coreVersion": "12.331",
+      "systemVersion": "v1.0.5"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "pirateborg",
+    "systemVersion": "v1.0.5",
+    "createdTime": 1736153400711,
+    "modifiedTime": 1736153813676,
+    "lastModifiedBy": "XiZOhGDOtvh215YM"
+  },
+  "formula": "1d20"
+}
