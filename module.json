@@ -26,21 +26,15 @@
   "media": [
   {
     "type": "screenshot",
-    "url": "link/to/media/file",
-    "caption": "<Insert description of screenshot>"
+    "url": "https://github.com/FrogDaPirate/The-Tempist-s-Wrath/blob/main/Stormcaller.png",
+    "caption": "New Player Class"
   },
   {
     "type": "cover",
     "url": "https://github.com/FrogDaPirate/The-Tempist-s-Wrath/blob/main/Tempest's%20Wrath.png",
-    "caption": "<Insert module / system name>"
+    "caption": "The Tempest's Wrath"
   },
-  {
-    "type": "video",
-    "url": "https://somereposite.com/author/repo/raw/videos/demo.webm",
-    "loop": true,
-    "thumbnail": "https://somereposite.com/author/repo/raw/images/thumb.png",
-    "caption": "<Insert description of a cool feature from the video>"
-  }
+  
 ]
   "url": "https://github.com/FrogDaPirate/The-Tempist-s-Wrath",
   "manifest": "https://github.com/FrogDaPirate/The-Tempist-s-Wrath/releases/latest/download/module.json",
